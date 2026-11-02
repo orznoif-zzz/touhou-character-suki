@@ -1,0 +1,42 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.cache/
+artifacts/
+*.local
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+.netrc
+.ssh/
+.aws/
+
+# Test, tooling and editor output
+coverage/
+.vite/
+.vitest/
+playwright-report/
+test-results/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Personal ranking backups (not application data fixtures)
+幻想乡偏爱录-*.json
+session-audit*.json
+backups/

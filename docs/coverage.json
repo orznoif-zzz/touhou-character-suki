@@ -1,0 +1,2150 @@
+{
+  "total": 203,
+  "counts": {
+    "windows": 126,
+    "decimal": 120,
+    "books": 41,
+    "pc98": 35,
+    "music": 2
+  },
+  "defaultCount": 146,
+  "intersections": {
+    "windows+decimal": 100,
+    "windows+books": 4,
+    "windows+pc98": 4,
+    "windows+music": 2,
+    "decimal+books": 13,
+    "decimal+pc98": 4,
+    "decimal+music": 0,
+    "books+pc98": 0,
+    "books+music": 0,
+    "pc98+music": 0
+  },
+  "byWork": [
+    {
+      "id": "work-1b5abb738229",
+      "name": "东方红魔乡",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方红魔乡",
+      "count": 11
+    },
+    {
+      "id": "work-362d0e9ae369",
+      "name": "东方妖妖梦",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方妖妖梦",
+      "count": 18
+    },
+    {
+      "id": "work-5dc125a38631",
+      "name": "东方萃梦想",
+      "scope": "decimal",
+      "source": "https://thwiki.cc/东方萃梦想",
+      "count": 13
+    },
+    {
+      "id": "work-af3de231ebbc",
+      "name": "东方永夜抄",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方永夜抄",
+      "count": 20
+    },
+    {
+      "id": "work-32795eceea07",
+      "name": "东方花映塚",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方花映塚",
+      "count": 20
+    },
+    {
+      "id": "work-00370ad38df0",
+      "name": "东方文花帖",
+      "scope": "decimal",
+      "source": "https://thwiki.cc/东方文花帖",
+      "count": 27
+    },
+    {
+      "id": "work-e129301df074",
+      "name": "东方风神录",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方风神录",
+      "count": 11
+    },
+    {
+      "id": "work-fe068d8c4cab",
+      "name": "东方绯想天",
+      "scope": "decimal",
+      "source": "https://thwiki.cc/东方绯想天",
+      "count": 18
+    },
+    {
+      "id": "work-1d1bed7e1097",
+      "name": "东方地灵殿",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方地灵殿",
+      "count": 19
+    },
+    {
+      "id": "work-cdce006320fa",
+      "name": "东方星莲船",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方星莲船",
+      "count": 14
+    },
+    {
+      "id": "work-3d3ba1510b1a",
+      "name": "东方非想天则",
+      "scope": "decimal",
+      "source": "https://thwiki.cc/东方非想天则",
+      "count": 23
+    },
+    {
+      "id": "work-3b3f94534573",
+      "name": "东方文花帖DS",
+      "scope": "decimal",
+      "source": "https://thwiki.cc/东方文花帖DS",
+      "count": 30
+    },
+    {
+      "id": "work-bd64bc6583a2",
+      "name": "妖精大战争",
+      "scope": "decimal",
+      "source": "https://thwiki.cc/妖精大战争",
+      "count": 8
+    },
+    {
+      "id": "work-f63d8d0099fc",
+      "name": "东方神灵庙",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方神灵庙",
+      "count": 14
+    },
+    {
+      "id": "work-20a67244c521",
+      "name": "东方心绮楼",
+      "scope": "decimal",
+      "source": "https://thwiki.cc/东方心绮楼",
+      "count": 69
+    },
+    {
+      "id": "work-d27592fd722b",
+      "name": "东方辉针城",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方辉针城",
+      "count": 12
+    },
+    {
+      "id": "work-d5130985bdb3",
+      "name": "弹幕天邪鬼",
+      "scope": "decimal",
+      "source": "https://thwiki.cc/弹幕天邪鬼",
+      "count": 33
+    },
+    {
+      "id": "work-ef7f19cc2b4c",
+      "name": "东方深秘录",
+      "scope": "decimal",
+      "source": "https://thwiki.cc/东方深秘录",
+      "count": 23
+    },
+    {
+      "id": "work-5472873f4104",
+      "name": "东方绀珠传",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方绀珠传",
+      "count": 19
+    },
+    {
+      "id": "work-7ba63e55b8d9",
+      "name": "东方凭依华",
+      "scope": "decimal",
+      "source": "https://thwiki.cc/东方凭依华",
+      "count": 34
+    },
+    {
+      "id": "work-324afa10784b",
+      "name": "东方天空璋",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方天空璋",
+      "count": 13
+    },
+    {
+      "id": "work-523b73814e5d",
+      "name": "秘封噩梦日记",
+      "scope": "decimal",
+      "source": "https://thwiki.cc/秘封噩梦日记",
+      "count": 40
+    },
+    {
+      "id": "work-6e7a0145325f",
+      "name": "东方鬼形兽",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方鬼形兽",
+      "count": 14
+    },
+    {
+      "id": "work-12686d8c1899",
+      "name": "东方刚欲异闻",
+      "scope": "decimal",
+      "source": "https://thwiki.cc/东方刚欲异闻",
+      "count": 17
+    },
+    {
+      "id": "work-7847b7368c25",
+      "name": "东方虹龙洞",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方虹龙洞",
+      "count": 15
+    },
+    {
+      "id": "work-a8fdaa24b865",
+      "name": "弹幕狂们的黑市",
+      "scope": "decimal",
+      "source": "https://thwiki.cc/弹幕狂们的黑市",
+      "count": 28
+    },
+    {
+      "id": "work-b7011fc64526",
+      "name": "东方兽王园",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方兽王园",
+      "count": 21
+    },
+    {
+      "id": "work-0e058486a55a",
+      "name": "东方求闻史纪",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方求闻史纪",
+      "count": 40
+    },
+    {
+      "id": "work-e6bf018056c3",
+      "name": "东方求闻口授",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方求闻口授",
+      "count": 34
+    },
+    {
+      "id": "work-4022f1613450",
+      "name": "东方香霖堂",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方香霖堂",
+      "count": 16
+    },
+    {
+      "id": "work-c9c05a653f42",
+      "name": "东方紫香花",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方紫香花",
+      "count": 6
+    },
+    {
+      "id": "work-cf91695999d8",
+      "name": "东方儚月抄 ～ Cage in Lunatic Runagate.",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方儚月抄 ～ Cage in Lunatic Runagate.",
+      "count": 23
+    },
+    {
+      "id": "work-aaf19bf81410",
+      "name": "东方儚月抄 ～ Silent Sinner in Blue.",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方儚月抄 ～ Silent Sinner in Blue.",
+      "count": 50
+    },
+    {
+      "id": "work-19dc71a894e8",
+      "name": "东方儚月抄 ～ 月上的因幡和地上的因幡",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方儚月抄 ～ 月上的因幡和地上的因幡",
+      "count": 31
+    },
+    {
+      "id": "work-370cfb27fe43",
+      "name": "东方三月精 ～ Eastern and Little Nature Deity.",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方三月精 ～ Eastern and Little Nature Deity.",
+      "count": 15
+    },
+    {
+      "id": "work-e6764308ecb4",
+      "name": "东方三月精 ～ Strange and Bright Nature Deity.",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方三月精 ～ Strange and Bright Nature Deity.",
+      "count": 30
+    },
+    {
+      "id": "work-8dc280b9e551",
+      "name": "东方三月精 ～ Oriental Sacred Place.",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方三月精 ～ Oriental Sacred Place.",
+      "count": 54
+    },
+    {
+      "id": "work-d0603b189f82",
+      "name": "东方三月精 ～ Visionary Fairies in Shrine.",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方三月精 ～ Visionary Fairies in Shrine.",
+      "count": 64
+    },
+    {
+      "id": "work-752ccff7a5d1",
+      "name": "东方茨歌仙",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方茨歌仙",
+      "count": 108
+    },
+    {
+      "id": "work-70268b937ec0",
+      "name": "东方铃奈庵",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方铃奈庵",
+      "count": 86
+    },
+    {
+      "id": "work-25b93ba16e36",
+      "name": "东方醉蝶华",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方醉蝶华",
+      "count": 56
+    },
+    {
+      "id": "work-7823e64b73f6",
+      "name": "东方智灵奇传",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方智灵奇传",
+      "count": 46
+    },
+    {
+      "id": "work-cc6d49c67288",
+      "name": "The Grimoire of Usami",
+      "scope": "books",
+      "source": "https://thwiki.cc/The Grimoire of Usami",
+      "count": 71
+    },
+    {
+      "id": "work-9e2ea9cf9f9f",
+      "name": "东方Project人妖名鉴 宵暗篇",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方Project人妖名鉴 宵暗篇",
+      "count": 59
+    },
+    {
+      "id": "work-52625565f976",
+      "name": "东方灵异传",
+      "scope": "pc98",
+      "source": "https://thwiki.cc/东方灵异传",
+      "count": 8
+    },
+    {
+      "id": "work-b28e9f82a4bc",
+      "name": "东方封魔录",
+      "scope": "pc98",
+      "source": "https://thwiki.cc/东方封魔录",
+      "count": 5
+    },
+    {
+      "id": "work-6171ba244ecf",
+      "name": "东方梦时空",
+      "scope": "pc98",
+      "source": "https://thwiki.cc/东方梦时空",
+      "count": 11
+    },
+    {
+      "id": "work-8e58580eb477",
+      "name": "东方怪绮谈",
+      "scope": "pc98",
+      "source": "https://thwiki.cc/东方怪绮谈",
+      "count": 8
+    },
+    {
+      "id": "work-4b3c2cdbe18b",
+      "name": "东方幻想乡",
+      "scope": "pc98",
+      "source": "https://thwiki.cc/东方幻想乡",
+      "count": 6
+    },
+    {
+      "id": "work-6a9e10f91fdd",
+      "name": "东方Project人妖名鉴 常世篇",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方Project人妖名鉴 常世篇",
+      "count": 55
+    },
+    {
+      "id": "work-661ca1d58c41",
+      "name": "东方文花帖（书籍）",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方文花帖（书籍）",
+      "count": 1
+    },
+    {
+      "id": "work-dd52f70e6c22",
+      "name": "东方文果真报",
+      "scope": "books",
+      "source": "https://thwiki.cc/东方文果真报",
+      "count": 9
+    },
+    {
+      "id": "work-a781fe6375c3",
+      "name": "莲台野夜行",
+      "scope": "music",
+      "source": "https://thwiki.cc/莲台野夜行",
+      "count": 2
+    },
+    {
+      "id": "work-874cff3f2ac0",
+      "name": "梦违科学世纪",
+      "scope": "music",
+      "source": "https://thwiki.cc/梦违科学世纪",
+      "count": 2
+    },
+    {
+      "id": "work-175f67434a37",
+      "name": "卯酉东海道",
+      "scope": "music",
+      "source": "https://thwiki.cc/卯酉东海道",
+      "count": 2
+    },
+    {
+      "id": "work-5fd625d116d8",
+      "name": "大空魔术",
+      "scope": "music",
+      "source": "https://thwiki.cc/大空魔术",
+      "count": 2
+    },
+    {
+      "id": "work-b0e474106fc1",
+      "name": "未知之花 魅知之旅",
+      "scope": "books",
+      "source": "https://thwiki.cc/未知之花 魅知之旅",
+      "count": 2
+    },
+    {
+      "id": "work-24596ce92e20",
+      "name": "鸟船遗迹",
+      "scope": "music",
+      "source": "https://thwiki.cc/鸟船遗迹",
+      "count": 2
+    },
+    {
+      "id": "work-f15f6b91b0e6",
+      "name": "伊奘诺物质",
+      "scope": "music",
+      "source": "https://thwiki.cc/伊奘诺物质",
+      "count": 2
+    },
+    {
+      "id": "work-d0409f9c9b26",
+      "name": "燕石博物志",
+      "scope": "music",
+      "source": "https://thwiki.cc/燕石博物志",
+      "count": 2
+    },
+    {
+      "id": "work-0e029a47fc16",
+      "name": "旧约酒馆",
+      "scope": "music",
+      "source": "https://thwiki.cc/旧约酒馆",
+      "count": 2
+    },
+    {
+      "id": "work-e7a3688bedac",
+      "name": "虹色的北斗七星",
+      "scope": "music",
+      "source": "https://thwiki.cc/虹色的北斗七星",
+      "count": 2
+    },
+    {
+      "id": "work-5197193e759c",
+      "name": "七夕坂梦幻能",
+      "scope": "books",
+      "source": "https://thwiki.cc/七夕坂梦幻能",
+      "count": 2
+    },
+    {
+      "id": "work-de4a4145ef72",
+      "name": "东方锦上京",
+      "scope": "windows",
+      "source": "https://thwiki.cc/东方锦上京",
+      "count": 10
+    }
+  ],
+  "decisions": [
+    {
+      "name": "博丽灵梦",
+      "sourceKey": "博丽灵梦",
+      "status": "included",
+      "id": "char-96133d4c1362"
+    },
+    {
+      "name": "雾雨魔理沙",
+      "sourceKey": "雾雨魔理沙",
+      "status": "included",
+      "id": "char-ad599908c6ad"
+    },
+    {
+      "name": "博丽灵梦",
+      "sourceKey": "博丽灵梦（旧作角色）",
+      "status": "merged",
+      "id": "char-96133d4c1362"
+    },
+    {
+      "name": "神玉",
+      "sourceKey": "神玉",
+      "status": "included",
+      "id": "char-69fc2043cb01"
+    },
+    {
+      "name": "魅魔",
+      "sourceKey": "魅魔",
+      "status": "included",
+      "id": "char-00fff23aa4fd"
+    },
+    {
+      "name": "菊理",
+      "sourceKey": "菊理",
+      "status": "included",
+      "id": "char-19922d63fd29"
+    },
+    {
+      "name": "矜羯罗",
+      "sourceKey": "矜羯罗",
+      "status": "included",
+      "id": "char-7385eb559740"
+    },
+    {
+      "name": "幽幻魔眼",
+      "sourceKey": "幽幻魔眼",
+      "status": "included",
+      "id": "char-eb45ba0c448c"
+    },
+    {
+      "name": "依莉斯",
+      "sourceKey": "依莉斯",
+      "status": "included",
+      "id": "char-59c3f04cb5c0"
+    },
+    {
+      "name": "萨丽爱尔",
+      "sourceKey": "萨丽爱尔",
+      "status": "included",
+      "id": "char-86152cca69cf"
+    },
+    {
+      "name": "玄爷",
+      "sourceKey": "玄爷",
+      "status": "included",
+      "id": "char-113d01722261"
+    },
+    {
+      "name": "里香",
+      "sourceKey": "里香",
+      "status": "included",
+      "id": "char-22d9dad798c7"
+    },
+    {
+      "name": "明罗",
+      "sourceKey": "明罗",
+      "status": "included",
+      "id": "char-a3cfa5e5d5fc"
+    },
+    {
+      "name": "雾雨魔理沙",
+      "sourceKey": "雾雨魔理沙（旧作角色）",
+      "status": "merged",
+      "id": "char-ad599908c6ad"
+    },
+    {
+      "name": "爱莲",
+      "sourceKey": "爱莲",
+      "status": "included",
+      "id": "char-da9d57f2550b"
+    },
+    {
+      "name": "小兔姬",
+      "sourceKey": "小兔姬",
+      "status": "included",
+      "id": "char-779c37df5d36"
+    },
+    {
+      "name": "卡娜·安娜贝拉尔",
+      "sourceKey": "卡娜·安娜贝拉尔",
+      "status": "included",
+      "id": "char-2b74ae2a1e6c"
+    },
+    {
+      "name": "朝仓理香子",
+      "sourceKey": "朝仓理香子",
+      "status": "included",
+      "id": "char-a633f5ed319e"
+    },
+    {
+      "name": "北白河千百合",
+      "sourceKey": "北白河千百合",
+      "status": "included",
+      "id": "char-8f22c1d72c4c"
+    },
+    {
+      "name": "冈崎梦美",
+      "sourceKey": "冈崎梦美",
+      "status": "included",
+      "id": "char-8d521ea1d04b"
+    },
+    {
+      "name": "咪咪号",
+      "sourceKey": "咪咪号",
+      "status": "included",
+      "id": "char-362db64aa41d"
+    },
+    {
+      "name": "留琴",
+      "sourceKey": "留琴",
+      "status": "included",
+      "id": "char-1e3d6ab0a149"
+    },
+    {
+      "name": "奥莲姬",
+      "sourceKey": "奥莲姬",
+      "status": "included",
+      "id": "char-c95bb12bc5a4"
+    },
+    {
+      "name": "胡桃",
+      "sourceKey": "胡桃",
+      "status": "included",
+      "id": "char-289bd629bd01"
+    },
+    {
+      "name": "艾丽",
+      "sourceKey": "艾丽",
+      "status": "included",
+      "id": "char-958e1b2ab790"
+    },
+    {
+      "name": "幽香",
+      "sourceKey": "幽香",
+      "status": "merged",
+      "id": "char-83d77038aa3e"
+    },
+    {
+      "name": "梦月",
+      "sourceKey": "梦月",
+      "status": "included",
+      "id": "char-25f16e34c1ae"
+    },
+    {
+      "name": "幻月",
+      "sourceKey": "幻月",
+      "status": "included",
+      "id": "char-d48f7e37f814"
+    },
+    {
+      "name": "萨拉",
+      "sourceKey": "萨拉",
+      "status": "included",
+      "id": "char-bff114394b19"
+    },
+    {
+      "name": "露易兹",
+      "sourceKey": "露易兹",
+      "status": "included",
+      "id": "char-cdc5ff3dd896"
+    },
+    {
+      "name": "爱丽丝",
+      "sourceKey": "爱丽丝（旧作角色）",
+      "status": "merged",
+      "id": "char-b89a664d806f"
+    },
+    {
+      "name": "雪",
+      "sourceKey": "雪",
+      "status": "included",
+      "id": "char-53058fe2e03c"
+    },
+    {
+      "name": "舞",
+      "sourceKey": "舞",
+      "status": "included",
+      "id": "char-7e478295eea5"
+    },
+    {
+      "name": "梦子",
+      "sourceKey": "梦子",
+      "status": "included",
+      "id": "char-aa55d8aaaec2"
+    },
+    {
+      "name": "神绮",
+      "sourceKey": "神绮",
+      "status": "included",
+      "id": "char-9173afc4214b"
+    },
+    {
+      "name": "露米娅",
+      "sourceKey": "露米娅",
+      "status": "included",
+      "id": "char-c8c81b1ea1a8"
+    },
+    {
+      "name": "大妖精",
+      "sourceKey": "大妖精",
+      "status": "included",
+      "id": "char-301fd1dee333"
+    },
+    {
+      "name": "琪露诺",
+      "sourceKey": "琪露诺",
+      "status": "included",
+      "id": "char-f0e209ee0ed8"
+    },
+    {
+      "name": "红美铃",
+      "sourceKey": "红美铃",
+      "status": "included",
+      "id": "char-c715260cda70"
+    },
+    {
+      "name": "小恶魔",
+      "sourceKey": "小恶魔",
+      "status": "included",
+      "id": "char-763036654be4"
+    },
+    {
+      "name": "帕秋莉·诺蕾姬",
+      "sourceKey": "帕秋莉·诺蕾姬",
+      "status": "included",
+      "id": "char-cc760ed414a5"
+    },
+    {
+      "name": "十六夜咲夜",
+      "sourceKey": "十六夜咲夜",
+      "status": "included",
+      "id": "char-ee9280f6a89c"
+    },
+    {
+      "name": "蕾米莉亚·斯卡蕾特",
+      "sourceKey": "蕾米莉亚·斯卡蕾特",
+      "status": "included",
+      "id": "char-1f4e1d6880cc"
+    },
+    {
+      "name": "芙兰朵露·斯卡蕾特",
+      "sourceKey": "芙兰朵露·斯卡蕾特",
+      "status": "included",
+      "id": "char-1236e6f428be"
+    },
+    {
+      "name": "冴月麟",
+      "status": "excluded",
+      "reason": "未实装角色，仅列边界清单，不纳入正式登场候选。"
+    },
+    {
+      "name": "蕾蒂·霍瓦特洛克",
+      "sourceKey": "蕾蒂·霍瓦特洛克",
+      "status": "included",
+      "id": "char-e8d80a610555"
+    },
+    {
+      "name": "橙",
+      "sourceKey": "橙",
+      "status": "included",
+      "id": "char-1ad702b18a4d"
+    },
+    {
+      "name": "爱丽丝·玛格特洛依德",
+      "sourceKey": "爱丽丝·玛格特洛依德",
+      "status": "included",
+      "id": "char-b89a664d806f"
+    },
+    {
+      "name": "莉莉霍瓦特",
+      "sourceKey": "莉莉霍瓦特",
+      "status": "included",
+      "id": "char-f67dfd5fef75"
+    },
+    {
+      "name": "露娜萨·普莉兹姆利巴",
+      "sourceKey": "露娜萨·普莉兹姆利巴",
+      "status": "included",
+      "id": "char-56914e0091b7"
+    },
+    {
+      "name": "梅露兰·普莉兹姆利巴",
+      "sourceKey": "梅露兰·普莉兹姆利巴",
+      "status": "included",
+      "id": "char-bdfa6e0b25f6"
+    },
+    {
+      "name": "莉莉卡·普莉兹姆利巴",
+      "sourceKey": "莉莉卡·普莉兹姆利巴",
+      "status": "included",
+      "id": "char-fddd7d82532f"
+    },
+    {
+      "name": "魂魄妖梦",
+      "sourceKey": "魂魄妖梦",
+      "status": "included",
+      "id": "char-43cad601cabc"
+    },
+    {
+      "name": "西行寺幽幽子",
+      "sourceKey": "西行寺幽幽子",
+      "status": "included",
+      "id": "char-6173189d584e"
+    },
+    {
+      "name": "八云蓝",
+      "sourceKey": "八云蓝",
+      "status": "included",
+      "id": "char-c15fa3124220"
+    },
+    {
+      "name": "八云紫",
+      "sourceKey": "八云紫",
+      "status": "included",
+      "id": "char-ac7df564450e"
+    },
+    {
+      "name": "魂魄妖忌",
+      "sourceKey": "魂魄妖忌",
+      "status": "included",
+      "id": "char-9d750b08dba8"
+    },
+    {
+      "name": "蕾拉·普莉兹姆利巴",
+      "sourceKey": "蕾拉·普莉兹姆利巴",
+      "status": "included",
+      "id": "char-b2a13014ae51"
+    },
+    {
+      "name": "伊吹萃香",
+      "sourceKey": "伊吹萃香",
+      "status": "included",
+      "id": "char-3f0163706fed"
+    },
+    {
+      "name": "莉格露·奈特巴格",
+      "sourceKey": "莉格露·奈特巴格",
+      "status": "included",
+      "id": "char-76a6852ad2bd"
+    },
+    {
+      "name": "米斯蒂娅·萝蕾拉",
+      "sourceKey": "米斯蒂娅·萝蕾拉",
+      "status": "included",
+      "id": "char-4c61272ff3b9"
+    },
+    {
+      "name": "上白泽慧音",
+      "sourceKey": "上白泽慧音",
+      "status": "included",
+      "id": "char-69aa3e112fa5"
+    },
+    {
+      "name": "因幡天为",
+      "sourceKey": "因幡帝",
+      "status": "included",
+      "id": "char-fc6dce5db55e"
+    },
+    {
+      "name": "铃仙·优昙华院·因幡",
+      "sourceKey": "铃仙·优昙华院·因幡",
+      "status": "included",
+      "id": "char-d031169cb5a3"
+    },
+    {
+      "name": "八意永琳",
+      "sourceKey": "八意永琳",
+      "status": "included",
+      "id": "char-85f2633e7014"
+    },
+    {
+      "name": "蓬莱山辉夜",
+      "sourceKey": "蓬莱山辉夜",
+      "status": "included",
+      "id": "char-943749fd773e"
+    },
+    {
+      "name": "藤原妹红",
+      "sourceKey": "藤原妹红",
+      "status": "included",
+      "id": "char-36890bf1fe70"
+    },
+    {
+      "name": "射命丸文",
+      "sourceKey": "射命丸文",
+      "status": "included",
+      "id": "char-b954480a100a"
+    },
+    {
+      "name": "梅蒂欣·梅兰可莉",
+      "sourceKey": "梅蒂欣·梅兰可莉",
+      "status": "included",
+      "id": "char-c72586cdf13e"
+    },
+    {
+      "name": "风见幽香",
+      "sourceKey": "风见幽香",
+      "status": "included",
+      "id": "char-83d77038aa3e"
+    },
+    {
+      "name": "小野塚小町",
+      "sourceKey": "小野塚小町",
+      "status": "included",
+      "id": "char-20a23734b5b5"
+    },
+    {
+      "name": "四季映姬·夜摩仙那度",
+      "sourceKey": "四季映姬·夜摩仙那度",
+      "status": "included",
+      "id": "char-dbd541d6e838"
+    },
+    {
+      "name": "秋静叶",
+      "sourceKey": "秋静叶",
+      "status": "included",
+      "id": "char-d961a36025f1"
+    },
+    {
+      "name": "秋穰子",
+      "sourceKey": "秋穰子",
+      "status": "included",
+      "id": "char-95fd0dc96756"
+    },
+    {
+      "name": "键山雏",
+      "sourceKey": "键山雏",
+      "status": "included",
+      "id": "char-0d5d99e8c3cf"
+    },
+    {
+      "name": "河城荷取",
+      "sourceKey": "河城荷取",
+      "status": "included",
+      "id": "char-608e77d66253"
+    },
+    {
+      "name": "犬走椛",
+      "sourceKey": "犬走椛",
+      "status": "included",
+      "id": "char-3821068694ed"
+    },
+    {
+      "name": "东风谷早苗",
+      "sourceKey": "东风谷早苗",
+      "status": "included",
+      "id": "char-a6ef89470b26"
+    },
+    {
+      "name": "八坂神奈子",
+      "sourceKey": "八坂神奈子",
+      "status": "included",
+      "id": "char-7d2a172d42e3"
+    },
+    {
+      "name": "洩矢诹访子",
+      "sourceKey": "洩矢诹访子",
+      "status": "included",
+      "id": "char-933874257f63"
+    },
+    {
+      "name": "永江衣玖",
+      "sourceKey": "永江衣玖",
+      "status": "included",
+      "id": "char-be6e389f44ae"
+    },
+    {
+      "name": "比那名居天子",
+      "sourceKey": "比那名居天子",
+      "status": "included",
+      "id": "char-e9354b5aaa6e"
+    },
+    {
+      "name": "大鲶鱼",
+      "sourceKey": "大鲶鱼",
+      "status": "included",
+      "id": "char-b749124f0dc0"
+    },
+    {
+      "name": "琪斯美",
+      "sourceKey": "琪斯美",
+      "status": "included",
+      "id": "char-c8e887b6a0e5"
+    },
+    {
+      "name": "黑谷山女",
+      "sourceKey": "黑谷山女",
+      "status": "included",
+      "id": "char-008a786a454a"
+    },
+    {
+      "name": "水桥帕露西",
+      "sourceKey": "水桥帕露西",
+      "status": "included",
+      "id": "char-baa7ccca793b"
+    },
+    {
+      "name": "星熊勇仪",
+      "sourceKey": "星熊勇仪",
+      "status": "included",
+      "id": "char-0e165e269556"
+    },
+    {
+      "name": "古明地觉",
+      "sourceKey": "古明地觉",
+      "status": "included",
+      "id": "char-ee3505ec7877"
+    },
+    {
+      "name": "火焰猫燐",
+      "sourceKey": "火焰猫燐",
+      "status": "included",
+      "id": "char-2dfdd2ffef8c"
+    },
+    {
+      "name": "灵乌路空",
+      "sourceKey": "灵乌路空",
+      "status": "included",
+      "id": "char-02b4e9c67188"
+    },
+    {
+      "name": "古明地恋",
+      "sourceKey": "古明地恋",
+      "status": "included",
+      "id": "char-64b8b4fe3a49"
+    },
+    {
+      "name": "娜兹玲",
+      "sourceKey": "娜兹玲",
+      "status": "included",
+      "id": "char-f58f8a05cab5"
+    },
+    {
+      "name": "多多良小伞",
+      "sourceKey": "多多良小伞",
+      "status": "included",
+      "id": "char-88ce137a85e6"
+    },
+    {
+      "name": "云居一轮&云山",
+      "sourceKey": "云居一轮",
+      "status": "included",
+      "id": "char-ecee3197cd88"
+    },
+    {
+      "name": "村纱水蜜",
+      "sourceKey": "村纱水蜜",
+      "status": "included",
+      "id": "char-f33b95d66381"
+    },
+    {
+      "name": "寅丸星",
+      "sourceKey": "寅丸星",
+      "status": "included",
+      "id": "char-df8d3f5f4ccf"
+    },
+    {
+      "name": "圣白莲",
+      "sourceKey": "圣白莲",
+      "status": "included",
+      "id": "char-441c503053e2"
+    },
+    {
+      "name": "封兽鵺",
+      "sourceKey": "封兽鵺",
+      "status": "included",
+      "id": "char-09b2e787be58"
+    },
+    {
+      "name": "命莲",
+      "sourceKey": "命莲",
+      "status": "included",
+      "id": "char-46dd93b2a249"
+    },
+    {
+      "name": "姬海棠果",
+      "sourceKey": "姬海棠果",
+      "status": "included",
+      "id": "char-d373a7b6822f"
+    },
+    {
+      "name": "幽谷响子",
+      "sourceKey": "幽谷响子",
+      "status": "included",
+      "id": "char-ccb547e91450"
+    },
+    {
+      "name": "宫古芳香",
+      "sourceKey": "宫古芳香",
+      "status": "included",
+      "id": "char-d6b3b11453ea"
+    },
+    {
+      "name": "霍青娥",
+      "sourceKey": "霍青娥",
+      "status": "included",
+      "id": "char-2ee8b4b905b4"
+    },
+    {
+      "name": "苏我屠自古",
+      "sourceKey": "苏我屠自古",
+      "status": "included",
+      "id": "char-7d37dce6206f"
+    },
+    {
+      "name": "物部布都",
+      "sourceKey": "物部布都",
+      "status": "included",
+      "id": "char-40e3a153109c"
+    },
+    {
+      "name": "丰聪耳神子",
+      "sourceKey": "丰聪耳神子",
+      "status": "included",
+      "id": "char-d0a3217786ca"
+    },
+    {
+      "name": "二岩猯藏",
+      "sourceKey": "二岩猯藏",
+      "status": "included",
+      "id": "char-ea9613a296b3"
+    },
+    {
+      "name": "秦心",
+      "sourceKey": "秦心",
+      "status": "included",
+      "id": "char-461bd62aa003"
+    },
+    {
+      "name": "秦河胜",
+      "sourceKey": "秦河胜",
+      "status": "included",
+      "id": "char-9e9681288f40"
+    },
+    {
+      "name": "若鹭姬",
+      "sourceKey": "若鹭姬",
+      "status": "included",
+      "id": "char-ec689b6d7233"
+    },
+    {
+      "name": "赤蛮奇",
+      "sourceKey": "赤蛮奇",
+      "status": "included",
+      "id": "char-b2c93e68d92b"
+    },
+    {
+      "name": "今泉影狼",
+      "sourceKey": "今泉影狼",
+      "status": "included",
+      "id": "char-d7c99d02c34f"
+    },
+    {
+      "name": "九十九弁弁",
+      "sourceKey": "九十九弁弁",
+      "status": "included",
+      "id": "char-f152694ec23c"
+    },
+    {
+      "name": "九十九八桥",
+      "sourceKey": "九十九八桥",
+      "status": "included",
+      "id": "char-744256f5e87d"
+    },
+    {
+      "name": "鬼人正邪",
+      "sourceKey": "鬼人正邪",
+      "status": "included",
+      "id": "char-a2baa08c8f18"
+    },
+    {
+      "name": "少名针妙丸",
+      "sourceKey": "少名针妙丸",
+      "status": "included",
+      "id": "char-3e5727279bcf"
+    },
+    {
+      "name": "堀川雷鼓",
+      "sourceKey": "堀川雷鼓",
+      "status": "included",
+      "id": "char-0cc97d97dc27"
+    },
+    {
+      "name": "宇佐见堇子",
+      "sourceKey": "宇佐见堇子",
+      "status": "included",
+      "id": "char-1962d419a405"
+    },
+    {
+      "name": "清兰",
+      "sourceKey": "清兰",
+      "status": "included",
+      "id": "char-2210e05e3f60"
+    },
+    {
+      "name": "铃瑚",
+      "sourceKey": "铃瑚",
+      "status": "included",
+      "id": "char-f6de6260f55e"
+    },
+    {
+      "name": "哆来咪·苏伊特",
+      "sourceKey": "哆来咪·苏伊特",
+      "status": "included",
+      "id": "char-d93723151f88"
+    },
+    {
+      "name": "稀神探女",
+      "sourceKey": "稀神探女",
+      "status": "included",
+      "id": "char-0789afca12ba"
+    },
+    {
+      "name": "克劳恩皮丝",
+      "sourceKey": "克劳恩皮丝",
+      "status": "included",
+      "id": "char-a854da2b8beb"
+    },
+    {
+      "name": "纯狐",
+      "sourceKey": "纯狐",
+      "status": "included",
+      "id": "char-fa2cb1871450"
+    },
+    {
+      "name": "赫卡提亚·拉碧斯拉祖利",
+      "sourceKey": "赫卡提亚·拉碧斯拉祖利",
+      "status": "included",
+      "id": "char-d796fe996d95"
+    },
+    {
+      "name": "后羿",
+      "sourceKey": "后羿",
+      "status": "included",
+      "id": "char-357046d4189b"
+    },
+    {
+      "name": "依神女苑",
+      "sourceKey": "依神女苑",
+      "status": "included",
+      "id": "char-315ad1ff89fb"
+    },
+    {
+      "name": "依神紫苑",
+      "sourceKey": "依神紫苑",
+      "status": "included",
+      "id": "char-d9120671492b"
+    },
+    {
+      "name": "爱塔妮缇拉尔瓦",
+      "sourceKey": "爱塔妮缇拉尔瓦",
+      "status": "included",
+      "id": "char-c4bf9876b231"
+    },
+    {
+      "name": "坂田合欢",
+      "sourceKey": "坂田合欢",
+      "status": "included",
+      "id": "char-c76b91589696"
+    },
+    {
+      "name": "高丽野阿吽",
+      "sourceKey": "高丽野阿吽",
+      "status": "included",
+      "id": "char-3600ae841353"
+    },
+    {
+      "name": "矢田寺成美",
+      "sourceKey": "矢田寺成美",
+      "status": "included",
+      "id": "char-8e9e61b6e276"
+    },
+    {
+      "name": "尔子田里乃",
+      "sourceKey": "尔子田里乃",
+      "status": "included",
+      "id": "char-fa3beb7092c3"
+    },
+    {
+      "name": "丁礼田舞",
+      "sourceKey": "丁礼田舞",
+      "status": "included",
+      "id": "char-b5387af431d6"
+    },
+    {
+      "name": "摩多罗隐岐奈",
+      "sourceKey": "摩多罗隐岐奈",
+      "status": "included",
+      "id": "char-49ebf1c8571a"
+    },
+    {
+      "name": "戎璎花",
+      "sourceKey": "戎璎花",
+      "status": "included",
+      "id": "char-f36a365a17e6"
+    },
+    {
+      "name": "牛崎润美",
+      "sourceKey": "牛崎润美",
+      "status": "included",
+      "id": "char-07e1c95a2b4a"
+    },
+    {
+      "name": "庭渡久侘歌",
+      "sourceKey": "庭渡久侘歌",
+      "status": "included",
+      "id": "char-5940d169dcfb"
+    },
+    {
+      "name": "吉吊八千慧",
+      "sourceKey": "吉吊八千慧",
+      "status": "included",
+      "id": "char-8475c5b7a389"
+    },
+    {
+      "name": "杖刀偶磨弓",
+      "sourceKey": "杖刀偶磨弓",
+      "status": "included",
+      "id": "char-e915a91aa6ff"
+    },
+    {
+      "name": "埴安神袿姬",
+      "sourceKey": "埴安神袿姬",
+      "status": "included",
+      "id": "char-2f4f07d08a36"
+    },
+    {
+      "name": "骊驹早鬼",
+      "sourceKey": "骊驹早鬼",
+      "status": "included",
+      "id": "char-2c46d2908c5b"
+    },
+    {
+      "name": "饕餮尤魔",
+      "sourceKey": "饕餮尤魔",
+      "status": "included",
+      "id": "char-48a210eb11d3"
+    },
+    {
+      "name": "豪德寺三花",
+      "sourceKey": "豪德寺三花",
+      "status": "included",
+      "id": "char-6abd9dfe54a5"
+    },
+    {
+      "name": "山城高岭",
+      "sourceKey": "山城高岭",
+      "status": "included",
+      "id": "char-b50c72206a71"
+    },
+    {
+      "name": "驹草山如",
+      "sourceKey": "驹草山如",
+      "status": "included",
+      "id": "char-ed23fc716301"
+    },
+    {
+      "name": "玉造魅须丸",
+      "sourceKey": "玉造魅须丸",
+      "status": "included",
+      "id": "char-409dd97fdaec"
+    },
+    {
+      "name": "菅牧典",
+      "sourceKey": "菅牧典",
+      "status": "included",
+      "id": "char-c0b0faa13aee"
+    },
+    {
+      "name": "饭纲丸龙",
+      "sourceKey": "饭纲丸龙",
+      "status": "included",
+      "id": "char-f1f02a6b0463"
+    },
+    {
+      "name": "天弓千亦",
+      "sourceKey": "天弓千亦",
+      "status": "included",
+      "id": "char-1ade379e04f7"
+    },
+    {
+      "name": "姬虫百百世",
+      "sourceKey": "姬虫百百世",
+      "status": "included",
+      "id": "char-21624e7343e6"
+    },
+    {
+      "name": "孙美天",
+      "sourceKey": "孙美天",
+      "status": "included",
+      "id": "char-b86651b9f37b"
+    },
+    {
+      "name": "三头慧之子",
+      "sourceKey": "三头慧之子",
+      "status": "included",
+      "id": "char-f450a7bf7cc3"
+    },
+    {
+      "name": "天火人血枪",
+      "sourceKey": "天火人血枪",
+      "status": "included",
+      "id": "char-807ab408a949"
+    },
+    {
+      "name": "豫母都日狭美",
+      "sourceKey": "豫母都日狭美",
+      "status": "included",
+      "id": "char-bf39a97acb96"
+    },
+    {
+      "name": "日白残无",
+      "sourceKey": "日白残无",
+      "status": "included",
+      "id": "char-40748226d8d0"
+    },
+    {
+      "name": "森近霖之助",
+      "sourceKey": "森近霖之助",
+      "status": "included",
+      "id": "char-fe831b0d01ee"
+    },
+    {
+      "name": "无名的读书妖怪",
+      "sourceKey": "无名的读书妖怪",
+      "status": "included",
+      "id": "char-851cf5fac85b"
+    },
+    {
+      "name": "桑尼米尔克",
+      "sourceKey": "桑尼米尔克",
+      "status": "included",
+      "id": "char-c81290c179b2"
+    },
+    {
+      "name": "露娜切露德",
+      "sourceKey": "露娜切露德",
+      "status": "included",
+      "id": "char-a5476df9d00d"
+    },
+    {
+      "name": "斯塔萨菲雅",
+      "sourceKey": "斯塔萨菲雅",
+      "status": "included",
+      "id": "char-da798f591211"
+    },
+    {
+      "name": "绵月丰姬",
+      "sourceKey": "绵月丰姬",
+      "status": "included",
+      "id": "char-516e19243b93"
+    },
+    {
+      "name": "绵月依姬",
+      "sourceKey": "绵月依姬",
+      "status": "included",
+      "id": "char-a4653c408510"
+    },
+    {
+      "name": "Reisen",
+      "sourceKey": "Reisen",
+      "status": "included",
+      "id": "char-a9f598b3b929"
+    },
+    {
+      "name": "岩笠",
+      "sourceKey": "岩笠",
+      "status": "included",
+      "id": "char-c04492596f0e"
+    },
+    {
+      "name": "月夜见",
+      "sourceKey": "月夜见",
+      "status": "included",
+      "id": "char-dfbe51e7f20c"
+    },
+    {
+      "name": "石长姬",
+      "sourceKey": "石长姬",
+      "status": "included",
+      "id": "char-74a38ac68fbe"
+    },
+    {
+      "name": "木花咲耶姬",
+      "sourceKey": "木花咲耶姬",
+      "status": "included",
+      "id": "char-57c048545b38"
+    },
+    {
+      "name": "瑞江浦岛子/水江浦岛子",
+      "sourceKey": "瑞江浦岛子/水江浦岛子",
+      "status": "included",
+      "id": "char-c0716fe147d6"
+    },
+    {
+      "name": "嫦娥",
+      "sourceKey": "嫦娥",
+      "status": "included",
+      "id": "char-2149b25f34c1"
+    },
+    {
+      "name": "稗田阿求",
+      "sourceKey": "稗田阿求",
+      "status": "included",
+      "id": "char-b861c22b6e4c"
+    },
+    {
+      "name": "龙神",
+      "status": "excluded",
+      "reason": "种族与单独个体的身份边界未确认。"
+    },
+    {
+      "name": "茨木华扇",
+      "sourceKey": "茨木华扇",
+      "status": "included",
+      "id": "char-a8e624345b80"
+    },
+    {
+      "name": "假扮魔理沙的妖狐",
+      "status": "excluded",
+      "reason": "无正式姓名的次要人物，未证明属于稳定主要通称角色。"
+    },
+    {
+      "name": "运松翁",
+      "sourceKey": "运松翁",
+      "status": "included",
+      "id": "char-4960e72fd9d5"
+    },
+    {
+      "name": "万岁乐",
+      "sourceKey": "万岁乐",
+      "status": "included",
+      "id": "char-796116b1f9bf"
+    },
+    {
+      "name": "本居小铃",
+      "sourceKey": "本居小铃",
+      "status": "included",
+      "id": "char-05be8564f0e8"
+    },
+    {
+      "name": "烟烟罗",
+      "sourceKey": "烟烟罗",
+      "status": "included",
+      "id": "char-43502471695b"
+    },
+    {
+      "name": "卓柏卡布拉",
+      "sourceKey": "卓柏卡布拉",
+      "status": "included",
+      "id": "char-5ad3ca5c3401"
+    },
+    {
+      "name": "邪龙",
+      "sourceKey": "邪龙",
+      "status": "included",
+      "id": "char-75bb83b1e935"
+    },
+    {
+      "name": "沓颊",
+      "sourceKey": "沓颊",
+      "status": "included",
+      "id": "char-cb9b42135ae3"
+    },
+    {
+      "name": "怨灵少女",
+      "status": "excluded",
+      "reason": "无正式姓名的次要人物。"
+    },
+    {
+      "name": "年幼的妖狐",
+      "status": "excluded",
+      "reason": "无正式姓名的次要人物。"
+    },
+    {
+      "name": "蛇妖/蟒蛇",
+      "status": "excluded",
+      "reason": "描述性名称的次要人物。"
+    },
+    {
+      "name": "易者",
+      "sourceKey": "易者",
+      "status": "included",
+      "id": "char-f76138826623"
+    },
+    {
+      "name": "抗抑郁药大叔",
+      "status": "excluded",
+      "reason": "描述性名称的次要人物。"
+    },
+    {
+      "name": "盐家老板",
+      "status": "excluded",
+      "reason": "描述性名称的次要人物。"
+    },
+    {
+      "name": "宫出口瑞灵",
+      "sourceKey": "宫出口瑞灵",
+      "status": "included",
+      "id": "char-11ee6b155dc2"
+    },
+    {
+      "name": "奥野田美宵",
+      "sourceKey": "奥野田美宵",
+      "status": "included",
+      "id": "char-89e189bc9bc0"
+    },
+    {
+      "name": "鲵吞亭店主",
+      "status": "excluded",
+      "reason": "无正式姓名的次要人物。"
+    },
+    {
+      "name": "宇佐见莲子",
+      "sourceKey": "宇佐见莲子",
+      "status": "included",
+      "id": "char-7629a9d042e3"
+    },
+    {
+      "name": "玛艾露贝莉·赫恩",
+      "sourceKey": "玛艾露贝莉·赫恩",
+      "status": "included",
+      "id": "char-2691b78adc1e"
+    },
+    {
+      "name": "C62蓬莱人形碟面角色",
+      "status": "excluded",
+      "reason": "无名封面人物，身份未确认。"
+    },
+    {
+      "name": "蓬莱人形封面角色",
+      "status": "excluded",
+      "reason": "无名封面人物，身份未确认。"
+    },
+    {
+      "name": "小丑",
+      "status": "excluded",
+      "reason": "碎片索引标为非东方角色，暂不纳入。"
+    },
+    {
+      "name": "正直者",
+      "status": "excluded",
+      "reason": "群体条目且碎片索引标为非东方角色。"
+    },
+    {
+      "name": "云山",
+      "status": "included-supplement",
+      "id": "char-6279010f6f7d",
+      "source": "https://thwiki.cc/云山"
+    },
+    {
+      "name": "玛○奇",
+      "status": "included-supplement",
+      "id": "char-f36be2a7694c",
+      "source": "https://thwiki.cc/官方角色列表/纯文字列表"
+    },
+    {
+      "name": "苏格拉底",
+      "status": "included-supplement",
+      "id": "char-c375ab5d64b0",
+      "source": "https://thwiki.cc/官方角色列表/纯文字列表"
+    },
+    {
+      "name": "尘塚姥芽",
+      "status": "included-supplement",
+      "id": "char-b4087c4028f5",
+      "source": "https://thwiki.cc/东方锦上京Only人气投票"
+    },
+    {
+      "name": "封兽魑魅",
+      "status": "included-supplement",
+      "id": "char-94e115da2d0c",
+      "source": "https://thwiki.cc/东方锦上京Only人气投票"
+    },
+    {
+      "name": "道神驯子",
+      "status": "included-supplement",
+      "id": "char-fee5d3183e1d",
+      "source": "https://thwiki.cc/东方锦上京Only人气投票"
+    },
+    {
+      "name": "维缦·浅间",
+      "status": "included-supplement",
+      "id": "char-e258815703a0",
+      "source": "https://thwiki.cc/东方锦上京Only人气投票"
+    },
+    {
+      "name": "磐永阿梨夜",
+      "status": "included-supplement",
+      "id": "char-4ca007833e65",
+      "source": "https://thwiki.cc/东方锦上京Only人气投票"
+    },
+    {
+      "name": "渡里贝子",
+      "status": "included-supplement",
+      "id": "char-cd9e77e77d80",
+      "source": "https://thwiki.cc/东方锦上京Only人气投票"
+    },
+    {
+      "name": "非想天则",
+      "status": "included-supplement",
+      "id": "char-efa9863c3015",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "秦河胜",
+      "status": "included-supplement",
+      "id": "char-9e9681288f40",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "莱卡",
+      "status": "included-supplement",
+      "id": "char-eb8b10edf48c",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "前鬼",
+      "status": "included-supplement",
+      "id": "char-cb62b7159527",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "后鬼",
+      "status": "included-supplement",
+      "id": "char-82b87bc480de",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "金山彦命",
+      "status": "included-supplement",
+      "id": "char-69698a90df10",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "黄帝",
+      "status": "included-supplement",
+      "id": "char-ea2e022d685f",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "务光",
+      "status": "included-supplement",
+      "id": "char-ee706cb5c982",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "仙台四郎",
+      "status": "included-supplement",
+      "id": "char-a1742c646ecb",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "久米",
+      "status": "included-supplement",
+      "id": "char-e4fb67770ca2",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "竿打",
+      "status": "included-supplement",
+      "id": "char-23a1527f4919",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "彭祖",
+      "status": "included-supplement",
+      "id": "char-fabee6b4a507",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "水鬼",
+      "status": "included-supplement",
+      "id": "char-c19116777af3",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "祐天上人",
+      "status": "included-supplement",
+      "id": "char-3a614c9a6283",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "白仙",
+      "status": "included-supplement",
+      "id": "char-c6e28519081b",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    },
+    {
+      "name": "猪口暮露",
+      "status": "included-supplement",
+      "id": "char-5c65f1239d5e",
+      "source": "https://thwiki.cc/index.php?title=碎片角色列表&oldid=937844"
+    }
+  ],
+  "fragmentBoundary": [
+    {
+      "name": "先代巫女",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "水獭少女",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "魔理沙的父亲",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "月人士兵",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "槌蛇",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "酒虫",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "蜃",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "假扮魔理沙的狸猫",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "山犬",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "假扮魔理沙的妖狐",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "雷蜥蜴",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "人面犬",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "卖脚婆",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "袈裟罗婆娑罗",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "饿神附体的村民",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "睡鼠",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "小铃的爷爷",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "稻荷大人",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "怨灵少女",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "年幼的妖狐",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "小铃的父亲",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "蟒蛇",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "抗抑郁药大叔",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "盐家老板",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "马凭",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "侍童",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "杀死大老爷的侍童",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "大老爷",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "鲵吞亭店主",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "鲵吞亭的常客",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "不安的村姑",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    },
+    {
+      "name": "龙神",
+      "status": "excluded-or-pending",
+      "reason": "无名次要个体、群体、未实装或种族性称呼；当前不纳入，待新增官方身份依据复核"
+    }
+  ],
+  "gaps": [
+    {
+      "name": "博丽灵梦",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "菊理",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "矜羯罗",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "幽幻魔眼",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "依莉斯",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "萨丽爱尔",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "玄爷",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "里香",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "明罗",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "雾雨魔理沙",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "爱莲",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "小兔姬",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "卡娜·安娜贝拉尔",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "朝仓理香子",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "北白河千百合",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "冈崎梦美",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "咪咪号",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "留琴",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "奥莲姬",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "胡桃",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "艾丽",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "幽香",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "梦月",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "幻月",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "萨拉",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "露易兹",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "爱丽丝",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "雪",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "舞",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "梦子",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "十六夜咲夜",
+      "reason": "镜像仅有摘要，无出场表"
+    },
+    {
+      "name": "魂魄妖忌",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "蕾拉·普莉兹姆利巴",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "大鲶鱼",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "命莲",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "后羿",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "岩笠",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "石长姬",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "木花咲耶姬",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "瑞江浦岛子/水江浦岛子",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "运松翁",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "万岁乐",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "烟烟罗",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "卓柏卡布拉",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "邪龙",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "沓颊",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    },
+    {
+      "name": "易者",
+      "reason": "无可解析出场表，仅保留已确认来源"
+    }
+  ],
+  "textIndexUnmatched": [],
+  "limitations": [
+    "基础快照仓库更新于 2026-08-12，但内容主要覆盖至兽王园；仓库提交日期不等于每条事实更新时间。",
+    "锦上京及具名碎片角色以 2026-10-30 可读网页资料补充；无法证明之后所有新出版物章节均已覆盖。",
+    "部分镜像条目为摘要桩页，无法恢复完整登场表，已逐项列出；缺失记录不会编造。",
+    "石长姬与磐永阿梨夜没有已确认的同一身份依据，保持独立。前鬼与后鬼拆分为两个个体。",
+    "新旧作幽香、爱丽丝按通常角色延续口径合并，用于偏好排序；不同形态不单独参赛。",
+    "仅被设定文档提及但有姓名的角色按原作来源纳入，并标为 mentioned；不把提及误记成实际登场。",
+    "第三方快照许可文字为 CC BY-NC-SA 3.0，但其超链接错误指向 BY-SA；保留较严格文字条件，未取得商业使用许可。"
+  ]
+}

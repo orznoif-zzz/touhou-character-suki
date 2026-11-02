@@ -1,0 +1,96 @@
+{
+  "datasetVersion": "2026-10-30-3be9588cae43",
+  "assumption": "固定严格全序，20 个均匀打乱种子，无排除、并列、跳过、反悔",
+  "results": [
+    {
+      "candidates": 146,
+      "top": 3,
+      "seeds": 20,
+      "min": 154,
+      "max": 159,
+      "mean": 157.5,
+      "upperBound": 161
+    },
+    {
+      "candidates": 146,
+      "top": 5,
+      "seeds": 20,
+      "min": 166,
+      "max": 173,
+      "mean": 171.1,
+      "upperBound": 177
+    },
+    {
+      "candidates": 146,
+      "top": 10,
+      "seeds": 20,
+      "min": 197,
+      "max": 208,
+      "mean": 204.2,
+      "upperBound": 217
+    },
+    {
+      "candidates": 146,
+      "top": 20,
+      "seeds": 20,
+      "min": 261,
+      "max": 276,
+      "mean": 270.4,
+      "upperBound": 297
+    },
+    {
+      "candidates": 146,
+      "top": 50,
+      "seeds": 20,
+      "min": 449,
+      "max": 470,
+      "mean": 461.7,
+      "upperBound": 537
+    },
+    {
+      "candidates": 203,
+      "top": 3,
+      "seeds": 20,
+      "min": 213,
+      "max": 216,
+      "mean": 215.4,
+      "upperBound": 218
+    },
+    {
+      "candidates": 203,
+      "top": 5,
+      "seeds": 20,
+      "min": 226,
+      "max": 230,
+      "mean": 228.9,
+      "upperBound": 234
+    },
+    {
+      "candidates": 203,
+      "top": 10,
+      "seeds": 20,
+      "min": 260,
+      "max": 265,
+      "mean": 263.3,
+      "upperBound": 274
+    },
+    {
+      "candidates": 203,
+      "top": 20,
+      "seeds": 20,
+      "min": 321,
+      "max": 334,
+      "mean": 330.6,
+      "upperBound": 354
+    },
+    {
+      "candidates": 203,
+      "top": 50,
+      "seeds": 20,
+      "min": 527,
+      "max": 538,
+      "mean": 532.2,
+      "upperBound": 594
+    }
+  ]
+}
